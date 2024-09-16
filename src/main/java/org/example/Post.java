@@ -7,8 +7,7 @@ public class Post {
     public String phone;
     public String surname;
     public boolean subscription;
-    //  public FormDate birthday;
-    //  post.birthday =new
+    public FormDate birthday;
 
     //  FormDate();
 
