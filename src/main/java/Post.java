@@ -5,13 +5,16 @@ public class Post {
     public String patronymic;
     public String phone;
     public String surname;
-    public Boolean subscription;
-    public FormDate birthday;
-    // post.birthday = new FormDate();
-
-
-    // добавьте другие поля
+    public boolean subscription;
+    public Formdate birthday;
 }
+
+//  Formdate birthday;
+// post.birthday = new FormDate();
+
+
+// добавьте другие поля
+
 
 
 //{
